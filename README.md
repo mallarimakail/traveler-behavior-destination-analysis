@@ -48,7 +48,7 @@ Inside Airbnb (insideairbnb.com) — open source Airbnb listing data
 
 Download travel_project.xlsx to view pivot tables, calculated columns, and conditional formatting.
 
-Excel Workbook Preview
+## Excel Workbook Preview
 <img width="1052" height="597" alt="Screenshot 2026-06-26 at 3 19 03 PM" src="https://github.com/user-attachments/assets/45d13c10-2476-463e-9834-e9de3aae1a6c" />
 <img width="669" height="661" alt="Screenshot 2026-06-26 at 3 19 47 PM" src="https://github.com/user-attachments/assets/5e13aa29-d17c-4705-a025-a87543eac770" />
 <img width="849" height="488" alt="Screenshot 2026-06-26 at 3 20 03 PM" src="https://github.com/user-attachments/assets/7ed6c90a-6edf-40a7-bdec-2c1a13911c6a" />
