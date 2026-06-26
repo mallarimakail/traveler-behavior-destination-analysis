@@ -47,4 +47,4 @@ Inside Airbnb (insideairbnb.com) — open source Airbnb listing data
 10_exports.sql
 
 ## Dashboard Preview
-[Insert Tableau screenshot here]
+<img width="2732" height="1536" alt="Executive Dashboard" src="https://github.com/user-attachments/assets/0f7e4948-2527-4ff8-8f58-d0ece0ab05e4" />
