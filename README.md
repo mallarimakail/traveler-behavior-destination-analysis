@@ -3,7 +3,7 @@
 ## Overview
 Business intelligence analysis of Airbnb short-term rental markets across 
 NYC, Mexico City, and New Orleans to identify partnership and content 
-opportunities for a travel media company with 500,000 newsletter subscribers.
+opportunities for a travel media company with newsletter subscribers.
 
 ## Business Questions
 - Q1: Where is demand growing faster than supply?
