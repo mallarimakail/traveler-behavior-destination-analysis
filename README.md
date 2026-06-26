@@ -1,5 +1,3 @@
-# traveler-behavior-destination-analysis
-
 # Traveler Behavior & Destination Trend Analysis
 
 ## Overview
